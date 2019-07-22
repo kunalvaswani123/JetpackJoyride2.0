@@ -1,0 +1,3 @@
+/home/kunal/Sem4/Graphics/Assignment1/graphics-boilerplate/output/CMakeFiles/edit_cache.dir
+/home/kunal/Sem4/Graphics/Assignment1/graphics-boilerplate/output/CMakeFiles/rebuild_cache.dir
+/home/kunal/Sem4/Graphics/Assignment1/graphics-boilerplate/output/CMakeFiles/graphics_asgn1.dir
